@@ -1,3 +1,4 @@
+
 ## STACK:
 ### FRONTEND
 | **Category**    | **Description**                                |
@@ -18,4 +19,5 @@
 | **MariaDB**     | 11.6.2                                         |
 | **N\A**         | N\A                                            |
 | **N\A**         | N\A                                            |
+
 
