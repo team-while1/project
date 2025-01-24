@@ -1,4 +1,4 @@
 package com.school.project.domain.student;
 
-public class controller {
+public class UserException {
 }

@@ -1,14 +1,13 @@
 package com.school.project.domain.student;
 
 import jakarta.persistence.Column;
-import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
 import lombok.Getter;
 import lombok.Setter;
 
-@Entity
+@jakarta.persistence.Entity
 @Getter @Setter
-public class entity {
+public class Student {
     @Id
     private Long id;
 
@@ -19,6 +18,4 @@ public class entity {
 
     @Column(unique = true)
     private String email;
-
-
 }
